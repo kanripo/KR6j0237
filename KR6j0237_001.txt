@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:28:32.497843
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:38
 #+TITLE: 阿唎多羅陀羅尼阿嚕力經
 #+PROPERTY: CBETA_ID T20n1039
 #+PROPERTY: ID KR6j0237
